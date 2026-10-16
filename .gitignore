@@ -1,0 +1,9 @@
+﻿node_modules
+dist
+*.local
+.env
+server/*.sqlite
+server/*.sqlite-shm
+server/*.sqlite-wal
+uploads/*
+!uploads/.gitkeep
